@@ -18,6 +18,7 @@ graph LR
     D & E -->|Import| F[Power BI Desktop]
     F -->|DAX Modeling| G[Interactive Dashboard]
     G -->|Insight| H[Safety Signal Detected]
+```
 
 An interactive PowerBI Dashboard can be downloaded here [Here](https://github.com/harrold-mussa/pharmaguard-signal-detection/dashboard/screenshots/safety_signals_medical.pdf).
 
