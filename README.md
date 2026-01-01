@@ -20,7 +20,7 @@ graph LR
     G -->|Insight| H[Safety Signal Detected]
 ```
 
-An interactive PowerBI Dashboard can be downloaded here [Here](https://github.com/harrold-mussa/pharmaguard-signal-detection/dashboard/screenshots/safety_signals_medical.pdf).
+An interactive PowerBI Dashboard can be downloaded [Here](https://github.com/harrold-mussa/pharmaguard-signal-detection/dashboard/screenshots/safety_signals_medical.pdf).
 
 ## Data Structure & Initial Checks
 
